@@ -1,2 +1,2 @@
-# PIDataDeleter
- PI Tag Data Deleter
+# PI Data Deleter
+ PI Tag Data Deleter For OSIsoft PI
