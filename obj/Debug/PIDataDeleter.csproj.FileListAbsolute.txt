@@ -1,0 +1,13 @@
+C:\Users\aegelhof\source\repos\PIDataDeleter\PIDataDeleter\bin\Debug\PIDataDeleter.exe.config
+C:\Users\aegelhof\source\repos\PIDataDeleter\PIDataDeleter\bin\Debug\PIDataDeleter.exe
+C:\Users\aegelhof\source\repos\PIDataDeleter\PIDataDeleter\bin\Debug\PIDataDeleter.pdb
+C:\Users\aegelhof\source\repos\PIDataDeleter\PIDataDeleter\bin\Debug\OSIsoft.AFSDK.dll
+C:\Users\aegelhof\source\repos\PIDataDeleter\PIDataDeleter\bin\Debug\OSIsoft.AFSDK.xml
+C:\Users\aegelhof\source\repos\PIDataDeleter\PIDataDeleter\obj\Debug\PIDataDeleter.csprojAssemblyReference.cache
+C:\Users\aegelhof\source\repos\PIDataDeleter\PIDataDeleter\obj\Debug\PIDataDeleter.Form1.resources
+C:\Users\aegelhof\source\repos\PIDataDeleter\PIDataDeleter\obj\Debug\PIDataDeleter.Properties.Resources.resources
+C:\Users\aegelhof\source\repos\PIDataDeleter\PIDataDeleter\obj\Debug\PIDataDeleter.csproj.GenerateResource.cache
+C:\Users\aegelhof\source\repos\PIDataDeleter\PIDataDeleter\obj\Debug\PIDataDeleter.csproj.CoreCompileInputs.cache
+C:\Users\aegelhof\source\repos\PIDataDeleter\PIDataDeleter\obj\Debug\PIDataDeleter.csproj.CopyComplete
+C:\Users\aegelhof\source\repos\PIDataDeleter\PIDataDeleter\obj\Debug\PIDataDeleter.exe
+C:\Users\aegelhof\source\repos\PIDataDeleter\PIDataDeleter\obj\Debug\PIDataDeleter.pdb
