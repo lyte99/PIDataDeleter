@@ -101,7 +101,7 @@
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(8, 162);
+            this.label4.Location = new System.Drawing.Point(8, 148);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(55, 13);
             this.label4.TabIndex = 8;
@@ -110,7 +110,7 @@
             // dtPickerEndTime
             // 
             this.dtPickerEndTime.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
-            this.dtPickerEndTime.Location = new System.Drawing.Point(73, 156);
+            this.dtPickerEndTime.Location = new System.Drawing.Point(73, 142);
             this.dtPickerEndTime.Name = "dtPickerEndTime";
             this.dtPickerEndTime.Size = new System.Drawing.Size(149, 20);
             this.dtPickerEndTime.TabIndex = 7;

@@ -35,13 +35,32 @@ namespace PIDataDeleter
 
                 if (myPIServer != null && myPIServer.ConnectionInfo.IsConnected)
                 {
-                    //delete the data
-                    DeletPITagData(myPIServer);
+                    //verify with the user
+                    string message = "You are about to delete data from "+ tBoxPITagName.Text.Trim()+ " from "+ dtPickerStartTime.Value +" to " 
+                        + dtPickerEndTime.Value +"{ 2}.  Are you sure that is correct?" ;
+                    string caption = "Please verify...";
+                    MessageBoxButtons buttons = MessageBoxButtons.YesNo;
+                    DialogResult result;
+
+                    // Displays the MessageBox.
+                    result = MessageBox.Show( message, caption, buttons);
+                    if (result == System.Windows.Forms.DialogResult.Yes)
+                    {
+
+                        //delete the data
+                        DeletPITagData(myPIServer);
+
+                        MessageBox.Show("Complete.");
+                    }
+                    else
+                    {
+                        MessageBox.Show("Operation Cancelled.");
+                    }
 
                     //disconnect from Pi server
                     myPIServer.Disconnect();
 
-                    MessageBox.Show("Complete.");
+                    
                 }
             }
 
